@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
