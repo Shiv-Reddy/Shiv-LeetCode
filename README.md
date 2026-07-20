@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
