@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
