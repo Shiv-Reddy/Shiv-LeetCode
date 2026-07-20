@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
