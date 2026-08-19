@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
