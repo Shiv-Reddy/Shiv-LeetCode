@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
