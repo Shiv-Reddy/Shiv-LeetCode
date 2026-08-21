@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Monotonic Stack
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
