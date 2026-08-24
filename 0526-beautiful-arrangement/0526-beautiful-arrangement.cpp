@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int count = 0;
-    
     int countArrangement(int n) {
-        vector<bool> used(n + 1, false);
-        backtrack(n, 1, used);
-        return count;
+        vector<int> memo(1 << n, -1);
+        return backtrack(n, 1, 0, memo);
     }
     
-    void backtrack(int n, int pos, vector<bool>& used) {
-        if (pos > n) {
-            count++;
-            return;
-        }
+private:
+    int backtrack(int n, int pos, int mask, vector<int>& memo) {
+        if (pos > n) return 1;
+        if (memo[mask] != -1) return memo[mask];
         
+        int count = 0;
         for (int num = 1; num <= n; num++) {
-            if (!used[num] && (num % pos == 0 || pos % num == 0)) {
-                used[num] = true;
-                backtrack(n, pos + 1, used);
-                used[num] = false;
+            if (!(mask & (1 << (num - 1))) && (num % pos == 0 || pos % num == 0)) {
+                count += backtrack(n, pos + 1, mask | (1 << (num - 1)), memo);
             }
         }
+        
+        memo[mask] = count;
+        return count;
     }
 };
