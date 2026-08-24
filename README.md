@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
+| [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -86,14 +87,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
+| [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
+| [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0055-jump-game) |
+| [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
