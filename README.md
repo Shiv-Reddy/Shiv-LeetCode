@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0130-surrounded-regions) |
+| [0313-super-ugly-number](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0313-super-ugly-number) |
 | [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0994-rotting-oranges](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0313-super-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0055-jump-game) |
+| [0313-super-ugly-number](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0313-super-ugly-number) |
 | [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
 |  |
