@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0526-beautiful-arrangement) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
