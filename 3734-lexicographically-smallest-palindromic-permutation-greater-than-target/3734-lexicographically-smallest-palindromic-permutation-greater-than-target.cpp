@@ -4,8 +4,7 @@ public:
         int n = s.size();
         vector<int> count(26, 0);
         for (char c : s) count[c - 'a']++;
-        
-        // Feasibility: at most one odd count, and exactly one if n is odd
+
         int oddCount = 0, oddChar = -1;
         for (int c = 0; c < 26; c++) {
             if (count[c] % 2 == 1) { oddCount++; oddChar = c; }
@@ -42,7 +41,6 @@ public:
             }
         }
         
-        // Try exact-match path
         if (matched_len == half_len) {
             string T1 = target.substr(0, half_len);
             string rev = T1;
@@ -62,7 +60,6 @@ public:
             }
         }
         
-        // Deviation fallback
         if (bestDevPos == -1) return "";
         
         vector<int> rem = pairs;
