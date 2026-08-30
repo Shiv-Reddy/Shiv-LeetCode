@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shiv-Reddy/Shiv-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
